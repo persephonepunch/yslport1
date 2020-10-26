@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>link-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="link-icon" fill-rule="nonzero" fill="#111111">
+            <path d="M4,2 C2.898438,2 2,2.898438 2,4 L2,16 C2,17.101563 2.898438,18 4,18 L16,18 C17.101563,18 18,17.101563 18,16 L18,12 L16,10 L16,16 L4,16 L4,4 L10,4 L8,2 L4,2 Z M11,2 L13.65625,4.65625 L8.15625,10.15625 L9.84375,11.84375 L15.34375,6.34375 L18,9 L18,2 L11,2 Z" id="icon"></path>
+        </g>
+    </g>
+</svg>
